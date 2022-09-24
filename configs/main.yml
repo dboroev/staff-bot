@@ -1,0 +1,7 @@
+db_url: "localhost"
+
+messages:
+  repsonses:
+    start: "app start"
+  errors:
+    default: "internal error"
